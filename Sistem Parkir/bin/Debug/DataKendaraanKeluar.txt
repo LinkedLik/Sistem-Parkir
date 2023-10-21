@@ -1,0 +1,8 @@
+Tanggal Hari Ini : 11/10/2022
+Plat Nomor Kendaraan : B 256 TES
+Nomor Tiket Parkir : TIKET001
+Jam Masuk kendaraan : 21.26.28
+Jenis Kendaraan : Mobil
+Jam Keluar Kendaraan : 21.27.28
+Biaya Parkir Kendaraan : Terdaftar (Gratis)
+Lama Parkir Kendaraan : 1 MENIT

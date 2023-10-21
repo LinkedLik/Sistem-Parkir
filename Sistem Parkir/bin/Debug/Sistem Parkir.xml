@@ -1,0 +1,521 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sistem Parkir
+</name>
+</assembly>
+<members>
+<member name="T:Sistem_Parkir.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources._1ebcb1ca_e2f3_4bd6_91b6_1b0c4a5a5ade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources._2220618528">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources._2478066792">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources._25d457a5_2a44_4a9c_a7c8_b1c4001ea314">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.Custom_Icon_Design_Flatastic_1_Back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.index">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.logout_icon_png_transparent_login_logout_icon_11562923416nzkie6fbka">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.Oxygen_Icons_org_Oxygen_Actions_document_save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.palang_parkir_sistem_parkir_mesin_barrier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.png_transparent_computer_icons_logout_angle_text_black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.sistem_parkir_profil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Parkir.My.Resources.Resources.sistem_parkir_profil1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TADMINDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TBARANGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TDETAILPEMESANANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TDETAILTRANSAKSIDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEGAWAIDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPELANGGANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEMASOKDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEMESANANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TTRANSAKSIDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.CariNamaBarangDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TADMINRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TBARANGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TDETAILPEMESANANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TDETAILTRANSAKSIRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEGAWAIRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPELANGGANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEMASOKRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEMESANANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TTRANSAKSIRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.CariNamaBarangRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TADMINRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TBARANGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TDETAILPEMESANANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TDETAILTRANSAKSIRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEGAWAIRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPELANGGANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEMASOKRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TPEMESANANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.TTRANSAKSIRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSet.CariNamaBarangRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TADMINTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TBARANGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TDETAILPEMESANANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TDETAILTRANSAKSITableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TPEGAWAITableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TPELANGGANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TPEMASOKTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TPEMESANANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TTRANSAKSITableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.CariNamaBarangTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistem_Parkir.InventoriDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sistem_Parkir.InventoriDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sistem_Parkir.InventoriDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager.UpdateAll(Sistem_Parkir.InventoriDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sistem_Parkir.InventoriDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataKeluarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataMasukDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataMemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataTarifDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataKeluarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataMasukRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataMemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataTarifRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataKeluarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataMasukRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataMemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSet.DataTarifRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSetTableAdapters.DataKeluarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSetTableAdapters.DataMasukTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSetTableAdapters.DataMemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSetTableAdapters.DataTarifTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistem_Parkir.ParkirDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sistem_Parkir.ParkirDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sistem_Parkir.ParkirDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager.UpdateAll(Sistem_Parkir.ParkirDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sistem_Parkir.ParkirDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSet.UserLoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSet.UserLoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSet.UserLoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSetTableAdapters.UserLoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistem_Parkir.UserDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sistem_Parkir.UserDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sistem_Parkir.UserDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager.UpdateAll(Sistem_Parkir.UserDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sistem_Parkir.UserDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

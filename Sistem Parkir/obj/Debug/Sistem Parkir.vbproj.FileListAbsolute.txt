@@ -1,0 +1,19 @@
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.exe.config
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.exe
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.pdb
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.xml
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.vbproj.AssemblyReference.cache
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.Resources.resources
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.vbproj.GenerateResource.cache
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.vbproj.CoreCompileInputs.cache
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.exe
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.xml
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.pdb
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.MenuParkir.resources
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.Aplikasi.resources
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.KendaraanMasuk.resources
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.KendaraanKeluar.resources
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\bin\Debug\Guna.UI2.dll
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.vbproj.CopyComplete
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.DaftarMember.resources
+C:\Users\Liko Fernando\Documents\Mata Kuliah\Semester 3 (Ganjil)\SI23010 - Analysis & Design Of Information System\Tugas\Sistem Parkir\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.ViewDB.resources

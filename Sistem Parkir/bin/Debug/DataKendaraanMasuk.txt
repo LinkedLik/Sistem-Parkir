@@ -1,0 +1,5 @@
+Tanggal Hari Ini : 08/12/2022
+Plat Nomor Kendaraan : H1234TIK
+Nomor Tiket Parkir : TK004
+Jam Masuk kendaraan : 17.32.39
+Jenis Kendaraan : Motor
